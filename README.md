@@ -2,7 +2,7 @@
   <h1>Hi, I'm Alessio 👋</h1>
 </div>
 
->I'm a Master Student from Turin, Italy. I have intrests in Artificial Intelligence and Virtual Reality.
+>Master Student from Turin, Italy. I have intrests in Artificial Intelligence and Virtual Reality.
 
 ### 📫 How to reach me:
 
@@ -31,7 +31,7 @@
   <p>
     This is a Pac-Man port for the LandTiger board, written in "C", as a Computer Architecture exam project. The game is built around a state machine architecture, driven by hardware interrupts for timing, input, and sound. A major challenge was implementing the rendering engine, which uses manual frame buffering for memory efficiency. 
   </p>
-  <strong>Technologies Used:</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" height="20">, <img src="https://www.keil.com/Content/images/Arm_KEIL_horizontal_white_LG.png" height="20">, LandTiger board
+  <strong>Technologies Used:</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" height="20">, <img src="https://logos.vendor.api.keil.arm.com/logos/Arm_KEIL_vertical_blue_LG.png" height="20">, LandTiger board
   <br/>
   <br/>
   <a href="https://github.com/Tartayoshi/Pacman-LANDTIGER" target="_blank"><strong>View Repository &raquo;</strong></a> | <a href="https://youtu.be/4j-t7Of7gTc" target="_blank"><strong>Demo &raquo;</strong></a>
