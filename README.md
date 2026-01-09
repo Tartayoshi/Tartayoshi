@@ -1,16 +1,76 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi, I'm Alessio 👋</h1>
+</div>
 
-<!--
-**Tartayoshi/Tartayoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <p>
+        I'm a Master Student from Turin, Italy. I have intrests in Artificial Intelligence and Virtual Reality.
+      </p>
+      <br/><br/>
+      <b>📫 How to reach me:</b>
+      <p>
+        <a href="mailto:nmeini2@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="nmeini2@gmail.com" height="30" width="40" /></a>
+        <a href="https://discordapp.com/users/697836427555373097" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Tartayoshi on Discord" height="30" width="40" /></a>
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/Tartayoshi">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tartayoshi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Tartayoshi's GitHub Stats"/>
+      </a>
+      <br/>
+      <a href="https://github.com/Tartayoshi">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tartayoshi&layout=compact&langs_count=8&theme=dracula" alt="Tartayoshi's Top Languages"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+-   **Master Student in Computer Engineering** | [Politecnico di Torino](https://www.polito.it/), Turin (Italy) | 2024 - Present
+    -   *Specialization: Artificial Intelligence and Data Analytics*
+    -   *Notes: Still attending*
+  
+-   **Bachelor’s degree in Computer Engineering** | [Università di Pisa](https://www.unipi.it/), Pisa (Italy) | 2020 - 2024
+    -   *Thesis (in italian **IT**): "Sperimentazione e testing di una rete neurale convoluzionale per la ricostruzione del battito cardiaco partendo dall’elettroencefalogramma"*
+
+---
+
+### 🚀 Academic Projects
+
+<details>
+  <summary><strong>Computer Architecture exam project: Pac-Man for LandTiger board</strong></summary>
+  <br/>
+  <p>
+    This is a Pac-Man port for the LandTiger board, written in "C", as a Computer Architecture exam project. The game is built around a state machine architecture, driven by hardware interrupts for timing, input, and sound. A major challenge was implementing the rendering engine, which uses manual frame buffering for memory efficiency. 
+  </p>
+  <strong>Technologies Used:</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" height="20">, <img src="https://www.keil.com/Content/images/Arm_KEIL_horizontal_white_LG.png" height="20">, LandTiger board
+  <br/>
+  <br/>
+  <a href="https://github.com/Tartayoshi/Pacman-LANDTIGER" target="_blank"><strong>View Repository &raquo;</strong></a> | <a href="https://youtu.be/4j-t7Of7gTc" target="_blank"><strong>Demo &raquo;</strong></a>
+</details>
+
+<details>
+  <summary><strong>Web Development exam project: Speed Rider</strong></summary>
+  <br/>
+  <p>
+    Racing game in PHP, JavaScript, HTML5, CSS as an exam test for Web Development course. The project is a web application using a classic MPA (Multi-Page Application) architecture with a PHP backend for logic, HTML rendering, and database interactions. The frontend uses standard HTML, CSS, and JavaScript, with the "pseudo" game developed in JavaScript using the HTML5 Canvas API. The game's logic is structured around a state machine pattern.
+  </p>
+  <strong>Technologies Used:</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="20">, <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="20">, <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="20">, <img src="https://raw.githubusercontent.com/CSS-Next/logo.css/main/css.svg" height="20">
+  <br/>
+  <br/>
+  <a href="https://github.com/Tartayoshi/speedrider" target="_blank"><strong>View Repository &raquo;</strong></a>
+</details>
+
+---
+
+### 🛠️ Skills & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <!-- Replace the icons below with your own skills. Find more icons at https://skillicons.dev -->
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,php,html,css,react,nodejs,java,python,pytorch,mysql,unity,blender,windows,linux,git,github,gitlab,vscode&perline=7" />
+  </a>
+</p>
