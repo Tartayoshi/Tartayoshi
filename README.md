@@ -55,6 +55,6 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <!-- Replace the icons below with your own skills. Find more icons at https://skillicons.dev -->
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,php,html,css,react,nodejs,java,python,pytorch,mysql,unity,blender,windows,linux,git,github,gitlab,vscode&perline=7" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,php,html,css,react,nodejs,java,python,pytorch,mysql,rust,arduino,unity,blender,windows,linux,git,github,gitlab,vscode&perline=7" />
   </a>
 </p>
