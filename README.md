@@ -2,30 +2,14 @@
   <h1>Hi, I'm Alessio 👋</h1>
 </div>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <p>
-        I'm a Master Student from Turin, Italy. I have intrests in Artificial Intelligence and Virtual Reality.
-      </p>
-      <br/><br/>
-      <b>📫 How to reach me:</b>
-      <p>
-        <a href="mailto:nmeini2@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="nmeini2@gmail.com" height="30" width="40" /></a>
-        <a href="https://discordapp.com/users/697836427555373097" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Tartayoshi on Discord" height="30" width="40" /></a>
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <a href="https://github.com/Tartayoshi">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tartayoshi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Tartayoshi's GitHub Stats"/>
-      </a>
-      <br/>
-      <a href="https://github.com/Tartayoshi">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tartayoshi&layout=compact&langs_count=8&theme=dracula" alt="Tartayoshi's Top Languages"/>
-      </a>
-    </td>
-  </tr>
-</table>
+>I'm a Master Student from Turin, Italy. I have intrests in Artificial Intelligence and Virtual Reality.
+
+### 📫 How to reach me:
+
+<p>
+    <a href="mailto:nmeini2@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="nmeini2@gmail.com" height="30" width="40" /></a>
+    <a href="https://discordapp.com/users/697836427555373097" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Tartayoshi on Discord" height="30" width="40" /></a>
+</p>
 
 ---
 
