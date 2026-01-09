@@ -41,7 +41,7 @@
   <summary><strong>Web Development exam project: Speed Rider</strong></summary>
   <br/>
   <p>
-    Racing game in PHP, JavaScript, HTML5, CSS as an exam test for Web Development course. The project is a web application using a classic MPA (Multi-Page Application) architecture with a PHP backend for logic, HTML rendering, and database interactions. The frontend uses standard HTML, CSS, and JavaScript, with the "pseudo" game developed in JavaScript using the HTML5 Canvas API. The game's logic is structured around a state machine pattern.
+    Racing game in PHP, JavaScript, HTML5, CSS as an exam test for Web Development course. The project is a web application using a classic MPA (Multi-Page Application) architecture with a PHP backend for logic, HTML rendering, and database interactions. The frontend uses standard HTML, CSS, and JavaScript, with the "pseudo" 3D game developed in JavaScript using the HTML5 Canvas API. The game's logic is structured around a state machine pattern.
   </p>
   <strong>Technologies Used:</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="20">, <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="20">, <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="20">, <img src="https://raw.githubusercontent.com/CSS-Next/logo.css/main/css.svg" height="20">
   <br/>
