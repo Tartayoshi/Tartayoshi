@@ -16,10 +16,11 @@
 ### 🎓 Education
 -   **Master Student in Computer Engineering** | [Politecnico di Torino](https://www.polito.it/), Turin (Italy) | 2024 - Present
     -   *Specialization: Artificial Intelligence and Data Analytics*
+    -   *Thesis (in English **EN**): **TBD** "An Explainability and Evaluation Framework for Unsupervised Spatio-Temporal Autoencoder-Based Anomaly Detection in Computer Network KPI Monitoring" in collaboration with [Rakuten Mobile, Inc.](https://corp.mobile.rakuten.co.jp/english/)* 
     -   *Notes: Still attending*
   
 -   **Bachelor’s degree in Computer Engineering** | [Università di Pisa](https://www.unipi.it/), Pisa (Italy) | 2020 - 2024
-    -   *Thesis (in italian **IT**): "Sperimentazione e testing di una rete neurale convoluzionale per la ricostruzione del battito cardiaco partendo dall’elettroencefalogramma"*
+    -   *Thesis (in Italian **IT**): "Sperimentazione e testing di una rete neurale convoluzionale per la ricostruzione del battito cardiaco partendo dall’elettroencefalogramma"*
 
 ---
 
